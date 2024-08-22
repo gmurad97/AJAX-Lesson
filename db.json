@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "first_name": "Murad",
+            "last_name": "Gazymagomedov"
+        },
+        {
+            "id": 2,
+            "first_name": "Jason",
+            "last_name": "Hartwell"
+        },
+        {
+            "id": 3,
+            "first_name": "Emily",
+            "last_name": "Thornton"
+        }
+    ]
+}
