@@ -8,6 +8,10 @@ $(document).ready(function () {
 
     }
 
+    function updateUser() {
+
+    }
+
     function deleteUser() {
 
     }
