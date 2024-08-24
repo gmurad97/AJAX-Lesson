@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "first_name": "Murad",
+      "last_name": "Gazymagommedov",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "first_name": "Ethan",
+      "last_name": "Walker"
+    },
+    {
+      "id": 3,
+      "first_name": "Olivia",
+      "last_name": "Brooks"
+    },
+    {
+      "id": 4,
+      "first_name": "Sophia",
+      "last_name": "Harris"
+    }
+  ]
+}
